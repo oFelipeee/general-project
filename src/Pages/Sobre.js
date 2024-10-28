@@ -52,7 +52,7 @@ export default function () {
             <Text>{contato.telefone}</Text>
             <Button 
             title="Excluir" 
-            color="orange"
+            color="black"
             onPress={() => deleteContato(contato.id)}
             />
           </View>

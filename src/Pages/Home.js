@@ -12,7 +12,7 @@ export default function () {
         <Text style={styles.tituloContato}>Seja bem-vindo!</Text>
         <Card
         title="Sobre"
-        content="Saiba mais sobre nós e nossos serviços."
+        content="Clique para ver a nossa lista de contatos."
         buttonText="Ir para Sobre"
         onPress= {() => navigation.navigate('Sobre')}
         />

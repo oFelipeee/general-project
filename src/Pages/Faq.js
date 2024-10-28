@@ -43,12 +43,12 @@ const styles = StyleSheet.create({
         fontSize: 22,
         fontWeight: "bold",
         textAlign: "center",
-        color: "red"
+        color: "black"
     },
     faqCont: {
         marginTop: 20,
         borderBottomWidth: 1,
-        borderBottomColor: "red"
+        borderBottomColor: "#836FFF"
     },
     perguntaFaq: {
         fontSize: 18,
