@@ -32,6 +32,11 @@ export default function () {
     });
   }
 
+  // Função para editar o contato
+  // const editarContato = (id) => {
+
+  // }
+
   useEffect(() => {
     listContatos();
   }, [])
